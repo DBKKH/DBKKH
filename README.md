@@ -10,6 +10,7 @@
 # Jobs
 
 ## Telexistence Inc.
+https://tx-inc.com/ja/top/
 2020年9月〜 / VR Forntend Engineer
 - VR Cockpit development
   - Gather and analyze requirements of our GUI and design software to meet the requirements.
@@ -19,6 +20,7 @@
 
 
 ## Synamon Inc.
+https://synamon.jp/
 2018年10月〜2020年9月 / VR Forntend Engineer
 
 - VR Communication Service development
@@ -31,6 +33,7 @@
 
 
 ## トヨタ自動車株式会社
+https://global.toyota/
 2017年4月〜2018年9月 / 総合職(技術職), 試作部
 
 - UE4やUnityを用いたxRでの自動車の新たな試作方法の検討と実装

@@ -11,7 +11,7 @@
 
 ## Telexistence Inc.
 https://tx-inc.com/ja/top/
-2020年9月〜 / VR Forntend Engineer
+202009〜 / VR Forntend Engineer
 - VR Cockpit development
   - Gather and analyze requirements of our GUI and design software to meet the requirements.
   - Implement GUI of the robot management system
@@ -21,26 +21,30 @@ https://tx-inc.com/ja/top/
 
 ## Synamon Inc.
 https://synamon.jp/
-2018年10月〜2020年9月 / VR Forntend Engineer
+201810〜202009 / VR Forntend Engineer
 
 - VR Communication Service development
-  - UnityとC#を用いた開発
-  - VR空間内におけるUI/UXの開発
-  - 技術的負債の返済、リファクタリング
--  Jenkinsなどを利用したCI/CDの改善
-- 社内ネットワークの改善
-- エンジニア組織の改善
+  - Unity and C# development
+  - Implement GUI of VR space
+  - Implement UX of this service
+  - Repayment Technical Liabilities
+- Implement CI/CD by Jenkins and QA/AC
+- Maintenance and implement internal network
+- Implement engnieering team
 
 
 ## トヨタ自動車株式会社
 https://global.toyota/
-2017年4月〜2018年9月 / 総合職(技術職), 試作部
+201704〜201809 / Engineer, Prototype department
 
-- UE4やUnityを用いたxRでの自動車の新たな試作方法の検討と実装
-（下記記事のプロジェクト立ち上げ）
-https://www.unrealengine.com/ja/spotlights/toyota-evaluates-vehicle-ergonomics-utilizing-vr-and-unreal-engine
-- VN-HILS（Vhichle Network - Hardware in the Loop Simulation）での新型車両におけるシミュレーションのテスト/運用サポート
-- 上記のシステムなどを利用したMBDの推進と活用
+- Continuous study of car prototyping and evaluates vehicles
+  - Prototyping xR Applications using UE4 or Unity
+  - Consideration faster prototyping 
+  （Launched below project）
+    - jp:https://www.unrealengine.com/ja/spotlights/toyota-evaluates-vehicle-ergonomics-utilizing-vr-and-unreal-engine
+    - en:https://www.unrealengine.com/en-US/spotlights/toyota-evaluates-vehicle-ergonomics-utilizing-vr-and-unreal-engine?lang=en-US
+- Operational supports of VN-HILS（Vhichle Network - Hardware in the Loop Simulation）
+- Promotion and utilization of MBD in vehicle developments by above systems
 
 <!--
 **DBKKH/DBKKH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

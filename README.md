@@ -33,7 +33,7 @@ https://synamon.jp/
 - Implement engnieering team
 
 
-## トヨタ自動車株式会社
+## Toyota Motor Corporation
 https://global.toyota/
 201704〜201809 / Engineer, Prototype department
 

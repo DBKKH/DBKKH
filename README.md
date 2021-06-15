@@ -13,10 +13,9 @@
 https://tx-inc.com/ja/top/
 202009〜 / VR Forntend Engineer
 - VR Cockpit development
-  - Gather and analyze requirements of our GUI and design software to meet the requirements.
+  - Implement VR application of robot operating system
   - Implement GUI of the robot management system
-  - Implement VR UI of robot operating system
-  - Continuously test & improve the software to achieve better UI/UX 
+  - Gather and analyze requirements of our GUI and design software to meet the requirements.
 
 
 ## Synamon Inc.
@@ -28,7 +27,7 @@ https://synamon.jp/
   - Implement GUI of VR space
   - Implement UX of this service
   - Repayment Technical Liabilities
-- Implement CI/CD by Jenkins and QA/AC
+- Improve CI/CD by Jenkins and QA/AC
 - Maintenance and implement internal network
 - Implement engnieering team
 

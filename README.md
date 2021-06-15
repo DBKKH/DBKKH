@@ -11,7 +11,7 @@
 
 ## Telexistence Inc.
 https://tx-inc.com/ja/top/
-202009〜 / VR Forntend Engineer
+202009〜 / VR Frontend Engineer
 - VR Cockpit development
   - Implement VR application of robot operating system
   - Implement GUI of the robot management system
@@ -20,7 +20,7 @@ https://tx-inc.com/ja/top/
 
 ## Synamon Inc.
 https://synamon.jp/
-201810〜202009 / VR Forntend Engineer
+201810〜202009 / VR Frontend Engineer
 
 - VR Communication Service development
   - Unity and C# development
@@ -29,7 +29,7 @@ https://synamon.jp/
   - Repayment Technical Liabilities
 - Improve CI/CD by Jenkins and QA/AC
 - Maintenance and implement internal network
-- Implement engnieering team
+- Implement engineering team
 
 
 ## Toyota Motor Corporation
